@@ -13,6 +13,9 @@ Aplikasi Travel Bytes mendukung berbagai kategori wisata, termasuk:
 
 - **Kota dan Budaya**: Jelajahi kota-kota menarik di seluruh dunia, kunjungi museum, situs bersejarah, dan festival budaya. Bagikan pengetahuan Anda tentang budaya dan sejarah lokal.
 
+## Daftar Wisata:
+Untuk melihat daftar lengkap tempat wisata dalam berbagai kategori, silakan kunjungi [Daftar Wisata](link_ke_daftar_wisata.md). Daftar ini berisi tabel dengan jenis wisata, referensi Google Maps, dan keterangan singkat tentang tempat-tempat tersebut.
+
 ## Fitur Utama:
 - **Pencatatan Jurnal yang Mudah**: Buat catatan perjalanan dengan mudah berisi deskripsi, lokasi, tanggal, dan gambar dari setiap pengalaman perjalanan Anda.
 
