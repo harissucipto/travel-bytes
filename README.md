@@ -16,6 +16,10 @@ Travel Bytes adalah aplikasi pencatatan jurnal perjalanan yang memungkinkan peng
 - **Privasi dan Keamanan**: Pastikan catatan perjalanan Anda aman dengan pengaturan privasi yang dapat disesuaikan, sehingga Anda memiliki kendali penuh atas siapa yang dapat melihat catatan perjalanan Anda.
 
 
-- Bikin Versi Web
-- list tempat wisata yang akan dikunjungi
-- bikin mvp terlebih dahulu
+## Pengembangan Menggunakan Flutter:
+Aplikasi Travel Bytes dibangun menggunakan kerangka kerja Flutter, yang memungkinkan pengembangan aplikasi berbasis mobile yang cepat, responsif, dan dapat digunakan di platform Android dan iOS. Dengan Flutter, kami dapat memberikan pengguna pengalaman yang konsisten dan menarik di berbagai perangkat mobile.
+
+## Lisensi:
+Aplikasi Travel Bytes dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT). Silakan baca [LICENSE.md](link_ke_LICENSE.md) untuk detail lebih lanjut.
+
+Dengan Travel Bytes, Anda dapat dengan mudah membuat kenangan yang tak terlupakan dari setiap perjalanan Anda dan berbagi inspirasi dengan orang lain. Selamat mengeksplorasi dunia dan menulis kisah perjalanan Anda!
