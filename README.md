@@ -2,6 +2,17 @@
 
 Travel Bytes adalah aplikasi pencatatan jurnal perjalanan yang memungkinkan pengguna untuk dengan mudah merekam dan berbagi pengalaman mereka saat berkunjung ke berbagai tempat wisata di seluruh dunia. Dengan Travel Bytes, Anda dapat membuat catatan perjalanan yang kaya dengan informasi dan gambar, serta membagikannya dengan teman dan komunitas wisatawan.
 
+## Kategori Wisata:
+Aplikasi Travel Bytes mendukung berbagai kategori wisata, termasuk:
+
+- **Wisata Kuliner**: Bagikan pengalaman kuliner unik Anda saat mencoba makanan lokal, restoran terkenal, atau makanan jalanan yang lezat.
+
+- **Pantai**: Dokumentasikan petualangan pantai Anda dengan foto-foto pasir putih, ombak, dan matahari terbenam yang indah. Coba snorkeling, berselancar, atau sekadar bersantai di tepi pantai.
+
+- **Gunung**: Catat pendakian Anda ke puncak gunung yang menakjubkan dan nikmati pemandangan spektakuler. Bagikan tips pendakian dan pengalaman camping Anda.
+
+- **Kota dan Budaya**: Jelajahi kota-kota menarik di seluruh dunia, kunjungi museum, situs bersejarah, dan festival budaya. Bagikan pengetahuan Anda tentang budaya dan sejarah lokal.
+
 ## Fitur Utama:
 - **Pencatatan Jurnal yang Mudah**: Buat catatan perjalanan dengan mudah berisi deskripsi, lokasi, tanggal, dan gambar dari setiap pengalaman perjalanan Anda.
 
